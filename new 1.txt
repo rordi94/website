@@ -1,0 +1,48 @@
+<HTML>
+<HEAD>
+	<meta charset = "utf -8" />
+	<TITLE>LOS ALTOS DE OVIEDO </TITLE>
+	<meta name = "salon de eventos y actuaciones"/>
+	<link href= "css/html5reset.css" rel = "stylesheet"/>
+	<LINK href = "css/style.css" rel="stylesheet"/>
+</HEAD>
+<BODY>
+	<OL>
+		<LI> Nombre:   Carlos Rodrigo  </LI>
+		<LI> Apellido: Gomez Gonzalez  </LI>
+		
+		
+		<P> Somos una Empresa seria dedicada al area de organizacion referente a los eventos, <br>
+				ofreciendo lo mejor en Atencion al cliente, Local con amplio espacio,sillas,  <br>
+				mesas, decoracion, Servicios de Gastronomia para todo tipo de festejos desde  <br>
+							 Cumpleanos infatiles hasta Bodas y Colaciones <br>
+			"Nos aseguramos que el evento que quieras realizar sea un momento inolvidable y unico" <br>
+		</P>
+		
+		<LI> PATROCINADORES </LI>
+		<P> *Coca Cola <br>
+			*Powerade <br>
+			*Gatorade <br>
+		</P>
+		
+		<LI> MISION Y VISION </LI>
+		
+		<P> Mision: Ser una empresa competitiva, Lider en el area regional e innovandora que dia a dia para ofrece <br>
+			lo mejor a los clientes garantizando la calidad en los servicios <br>
+			
+			Vision: Proyectarse y establecerce como un Local de Eventos que no solo reproduzca beneficios particulares<br>
+			sino tambien genere empleo a las personas y sostenga responsablidad social como una empresa seria y consolidada <br>
+		</P>
+	
+	</OL>
+	
+	<footer>
+		<div class = "estilo2"> 
+				<p> copyright (c) 2019 Los Altos de Oviedo "Salon de Eventos " <br>
+								Barrio Las Mercedes-Coronel Oviedo <br>
+										Celular: 0971-701034 
+				</p>			
+		</div>
+	</footer>
+</BODY>
+</HTML>
